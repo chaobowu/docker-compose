@@ -1,4 +1,4 @@
-/nginx/logs/*.log
+#/nginx/logs/*.log
 
 
 .DS_Store
